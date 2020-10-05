@@ -1,6 +1,6 @@
 # MyProject
 一：选择Git Bash Here，出现一个Git Bash命令行窗口
-![image-20201005231127801](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201005231127801.png)
+![image](https://github.com/wangwang01-wzx/MyProject/blob/master/image-20201005231127801.png)
 二：建立一个本地仓库
 ![image-20201005231227393](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201005231227393.png)
 三：将工程下面的所有文件添加到git本地仓库中
